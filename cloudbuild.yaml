@@ -24,4 +24,3 @@ steps:
     - 'CLOUDSDK_CONTAINER_CLUSTER=hello-cluster'
 options:
  logging: CLOUD_LOGGING_ONLY
-vi update
